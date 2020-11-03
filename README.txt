@@ -4,4 +4,4 @@ OpenNT is an operating system based upon Windows NT 4.0 that has been updated wi
 
 Windows is copyright Microsoft Corporation
 
-this code is for educational use only. 
+this code is for educational use only. Copyright infringement is not intended.
