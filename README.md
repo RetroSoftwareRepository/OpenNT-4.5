@@ -13,7 +13,12 @@ The build environment looks for things in this letter. This can be changed, but 
 
 The Windows version used to compile doesn't matter, as long as it is not Windows 1.x to NT 3.5. 
 
-I recommend 2000 or later as it supports larger hard drives and flash drives (up to 2 terabytes)
+I recommend 2000 or later (MUST BE 32-BIT) as it supports larger hard drives and flash drives (up to 2 terabytes)
 
+In short:
+- copy all source files to w:\
+- run "W:\setup.cmd"
+- run zTESTBUILD.cmd and answer 'yyy' for the 1st pass clean build and ignore building errors if any
+- if any building errors, run zTESTBUILD.cmd again and answer 'nyy' for a 2nd pass non-clean build
 
 Have fun!
